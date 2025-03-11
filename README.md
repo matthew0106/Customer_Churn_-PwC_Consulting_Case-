@@ -68,5 +68,6 @@ Ensure the following libraries are installed before running the analysis:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
-## Authur
+---
+## Authur 
 Matthew Huynh
