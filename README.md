@@ -10,9 +10,9 @@ This project is a hypothetical case study where I take on the role of a data con
 
 The telecom industry is highly competitive, with customers frequently switching providers for better pricing, improved service quality, or a more seamless customer experience. In this scenario, the company is losing a significant number of customers each month, which is impacting both revenue and profitability. The CEO wants to understand:
 
-Who are the customers that are churning?
-What are the most influential factors contributing to churn?
-How can the company proactively predict and prevent churn?
+- **Who are the customers that are churning?**
+- **What are the most influential factors contributing to churn?**
+- **How can the company proactively predict and prevent churn?**
 
 ## 🛠️ My Role
 
