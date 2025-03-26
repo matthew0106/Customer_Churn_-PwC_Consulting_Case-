@@ -2,8 +2,26 @@
 
 ![image](https://github.com/user-attachments/assets/e3981a05-5db8-4828-8f36-7efd8ec6922c)
 
-## 📌 Overview
-This project aims to analyse **customer churn patterns** in the PwC dataset to identify key drivers of churn and develop predictive models to enhance customer retention. By understanding the characteristics of **churned vs. retained customers**, this analysis will help businesses implement **targeted strategies** to reduce churn and improve customer experience.
+## 📊 Project Overview
+
+This project is a hypothetical case study where I take on the role of a data consultant working on behalf of PwC’s Data & Analytics Consulting Division. The scenario involves a leading telecom company experiencing a high customer churn rate. In this setup, PwC has been engaged to analyze churn patterns, uncover key drivers, and propose data-driven strategies to improve customer retention.
+
+## 🧩 Business Context
+
+The telecom industry is highly competitive, with customers frequently switching providers for better pricing, improved service quality, or a more seamless customer experience. In this scenario, the company is losing a significant number of customers each month, which is impacting both revenue and profitability. The CEO wants to understand:
+
+Who are the customers that are churning?
+What are the most influential factors contributing to churn?
+How can the company proactively predict and prevent churn?
+
+## 🛠️ My Role
+
+In this hypothetical project, I step into the shoes of a data consultant tasked with analyzing customer churn and delivering insights that could inform strategic decisions. My objectives include:
+
+Conducting exploratory data analysis (EDA) on customer demographics and behavior
+Building a predictive model to identify customers at high risk of churning
+Extracting actionable insights that could help the company reduce churn and retain valuable customers
+
 
 ## 📂 Dataset
 The dataset contains customer details, service usage patterns, and churn labels. Key features include:
